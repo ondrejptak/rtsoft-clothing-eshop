@@ -50,7 +50,7 @@ Máte Node.js a pnpm nainstalované? Pak jde to jednoduše:
 
 ```bash
 # 1. Klonujte projekt
-git clone https://github.com/florixak/rtsoft-clothing-eshop.git
+git clone https://github.com/ondrejptak/rtsoft-clothing-eshop.git
 cd rtsoft-clothing-eshop
 
 # 2. Instalujte závislosti
@@ -100,7 +100,7 @@ Před spuštěním aplikace se ujistěte, že máte nainstalováno:
 ### 1. Klonování projektu
 
 ```bash
-git clone https://github.com/florixak/rtsoft-clothing-eshop.git
+git clone https://github.com/ondrejptak/rtsoft-clothing-eshop.git
 cd rtsoft-clothing-eshop
 ```
 
